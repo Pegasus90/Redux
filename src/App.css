@@ -1,0 +1,29 @@
+/* tasks */
+.items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.task-filters {
+  margin-left: 150px;
+  display: flex;
+  justify-content: flex-start;
+}
+.update form {
+  display: flex;
+  align-items: center;
+  width: 550px;
+}
+.form-item {
+  text-align: center;
+}
+.form-item form {
+  display: flex;
+  margin: 20px auto;
+  width: 40em;
+}
+
+.done {
+  color: red;
+  text-decoration: line-through;
+}
